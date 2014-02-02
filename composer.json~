@@ -1,0 +1,8 @@
+{
+    "name": "vishalbhandare/phonegap-workshop-master",
+    "autoload": {
+        "psr-0" : {
+            "Vishal\\Bhandare" : "src"
+        }
+    }
+}
