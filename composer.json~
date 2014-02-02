@@ -1,5 +1,10 @@
 {
     "name": "vishalbhandare/phonegap-workshop-master",
+	"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/weaverryan/derp-dangerzone"
+    }
     "autoload": {
         "psr-0" : {
             "Vishal\\Bhandare" : "src"
